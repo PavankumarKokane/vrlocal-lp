@@ -247,14 +247,12 @@ footer .lower div{text-align: center !important;}
 .mob-footer a.mob-enq-btn{background-color: #6b6b6b;color: #fff;text-transform: uppercase;font-weight: 600;font-size: 14px;}
 .mob-footer a.mob-call-btn{background-color: #fff;color: #6b6b6b;text-transform: uppercase;font-weight: 600;font-size: 14px;}
 
-.banner-slider,.slider-main-div{
-	min-height: 560px!important;
+.banner-sec,.banner-form{
+	min-height: 580px;
 }
-.banner-slider .slick-slide{
-	min-height: 560px;
-}
-.banner-form{
-	min-height: 560px;
+.mb-banner{
+	width: 100%;
+	height: 100%;
 }
 .form-div{
 	width: 100%;
