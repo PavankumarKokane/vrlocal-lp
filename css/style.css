@@ -223,7 +223,10 @@ footer .lower{background-color: #121212;padding:10px 0;font-size: 16px;}
    background-repeat: no-repeat;
    background-size: cover;
 }
-
+.overview-img{
+   width: 450px;
+   height: auto;
+}
 .section-name{
    font-family: Gilroy-Bold;
    font-weight: 700;
@@ -353,6 +356,10 @@ footer .lower{background-color: #121212;padding:10px 0;font-size: 16px;}
    float: unset;
    margin: 0 auto;
 }
+.services-img{
+   width: 100%;
+   height: auto;
+}
 
 .services-slider .slick-slide.prevdiv{
    transform: scale(0.9) translatex(90%);
@@ -413,6 +420,10 @@ footer .lower{background-color: #121212;padding:10px 0;font-size: 16px;}
 .office-audits-img{
    display: flex;
    justify-content: flex-end;
+}
+.office-audits-img img{
+   width: 360px;
+   height: auto;
 }
 /* .main-div-office{ */
    /*margin: 70px 0px 48px;*/
@@ -586,6 +597,10 @@ footer .lower{background-color: #121212;padding:10px 0;font-size: 16px;}
 }
 .case-studies-points .contact-us{
    margin-top: 30px;
+}
+.case-studies-points .studies-points img{
+   width: 100%;
+   height: auto;
 }
 
 .banner-form{
@@ -874,10 +889,6 @@ input::placeholder {
 @media only screen and (max-width : 1200px) {
 
 }
-
-
-
-
 
 
 
